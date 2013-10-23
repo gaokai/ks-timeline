@@ -1,0 +1,13 @@
+{
+    "name": "ks-timeline",
+    "version": "1.0",
+    "desc": "特性：刻度可变化，标尺可拖拽",
+    "cover": "",
+    "author": {
+        "name": "yumen",
+        "email": "yumen.gk@taobao.com",
+        "page": "https://github.com/gaokai"
+    },
+    "type": "kissy-pie",
+    "type-url": "http://abc.alibaba-inc.com/r/kissy-pie"
+}
